@@ -1,0 +1,34 @@
+- id: step-001
+  description: Create initial project structure
+  acceptance_criteria:
+    - Project directory is created
+    - Basic file structure is in place
+  dependencies: []
+  status: in-progress
+- id: step-002
+  description: Add user authentication system
+  acceptance_criteria: []
+  dependencies: []
+  status: done
+- id: step-003
+  description: Create a REST API for user management
+  acceptance_criteria: []
+  dependencies: []
+  status: pending
+- id: step-004
+  description: Implement database migration system
+  acceptance_criteria: []
+  dependencies: []
+  status: pending
+- id: step-005
+  description: Create user interface components
+  acceptance_criteria: []
+  dependencies: []
+  status: pending
+- id: step-006
+  description: |-
+    Create user registration form with email
+         validation
+  acceptance_criteria: []
+  dependencies: []
+  status: pending
